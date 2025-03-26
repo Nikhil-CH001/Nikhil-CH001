@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate developer with a deep love for hacking—
 ## 🛠️ Tech Stack
 Here are some tools and technologies I work with:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -40,8 +40,8 @@ Here are some tools and technologies I work with:
 ---
 
 ## 🌐 Let’s Connect!
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nikhil-chaudhary-4595b0345/))
-- [Twitter/X]([https://twitter.com/your-handle](https://x.com/Nikhil_CH001))
+- [LinkedIn](https://www.linkedin.com/in/nikhil-chaudhary-4595b0345)
+- [Twitter/X](https://x.com/Nikhil_CH001)
 -- [Portfolio/Website](https://yourwebsite.com)
 
 ---
